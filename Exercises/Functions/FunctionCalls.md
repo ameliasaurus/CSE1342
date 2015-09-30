@@ -100,3 +100,7 @@ Given the following function headers, answer the questions below:
     - iv) `calculateArea`, of return type `float`
     - v) `calulateVolume`, of return type `int`
     - vi) `greaterThan42`, of return type `bool`
+
+Function Calls and Definitions Key
+-----
+[Key](https://github.com/CenterOfCreativeComputation/CSE1342/blob/master/Exercises/Functions/FunctionCalls_Key/FunctionCalls_Key.md)
